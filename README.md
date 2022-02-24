@@ -1,1 +1,1 @@
-# multithreaded-RLE
+# multithreaded-RLE (Run-length Encoder)
